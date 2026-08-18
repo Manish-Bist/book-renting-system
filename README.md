@@ -10,7 +10,7 @@ I built this project using PHP and MySQL to learn full-stack web development, ha
 
 | Home Page | Catalog & Products |
 | :---: | :---: |
-| ![Home Page](Screenshots/Home%20page.jpg) | ![Products Page](Screenshots/Products%20page.jpg) |
+| ![Home Page](Screenshots/Home%20page.png) | ![Products Page](Screenshots/Products%20page.png) |
 
 | Account Creation | User Login |
 | :---: | :---: |
@@ -18,7 +18,7 @@ I built this project using PHP and MySQL to learn full-stack web development, ha
 
 | Featured Books | Feedback Page |
 | :---: | :---: |
-| ![Dashboard Page](Screenshots/Dashboard.jpg) | ![Feedback Page](Screenshots/Feedback%20page.png) |
+| ![Dashboard Page](Screenshots/Dashboard.png) | ![Feedback Page](Screenshots/Feedback%20page.png) |
 
 ---
 
