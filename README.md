@@ -10,7 +10,7 @@ I built this project using PHP and MySQL to learn full-stack web development, ha
 
 | Home Page | Catalog & Products |
 | :---: | :---: |
-| ![Home Page](screenshots/Home%20page.jpg) | ![Products Page](screenshots/Products%20page.jpg) |
+| ![Home Page](screenshots/Home%20page.png) | ![Products Page](screenshots/Products%20page.png) |
 
 | Account Creation | User Login |
 | :---: | :---: |
