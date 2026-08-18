@@ -10,15 +10,15 @@ I built this project using PHP and MySQL to learn full-stack web development, ha
 
 | Home Page | Catalog & Products |
 | :---: | :---: |
-| ![Home Page](screenshots/Home%20page.png) | ![Products Page](screenshots/Products%20page.png) |
+| ![Home Page](Screenshots/Home%20page.jpg) | ![Products Page](Screenshots/Products%20page.jpg) |
 
 | Account Creation | User Login |
 | :---: | :---: |
-| ![Signup Page](screenshots/Signup%20page.png) | ![Login Page](screenshots/Login%20page.png) |
+| ![Signup Page](Screenshots/Signup%20page.png) | ![Login Page](Screenshots/Login%20page.png) |
 
 | Featured Books | Feedback Page |
 | :---: | :---: |
-| ![Dashboard Page](screenshots/Dashboard.jpg) | ![Feedback Page](screenshots/Feedback%20page.png) |
+| ![Dashboard Page](Screenshots/Dashboard.jpg) | ![Feedback Page](Screenshots/Feedback%20page.png) |
 
 ---
 
